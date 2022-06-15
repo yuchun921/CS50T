@@ -1,0 +1,15 @@
+body {
+    text-align: center;  
+}
+header {
+    font-size: large;
+}
+main {
+    font-size: medium;
+}
+main.test {
+    font-style: color=red;
+}
+footer {
+    font-size: small;   
+}
