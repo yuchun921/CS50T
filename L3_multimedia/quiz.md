@@ -14,7 +14,13 @@
 
 	>   want to save high quality photos, or photo's color has 24-bit color  
 
-##### Consider the GIFs below.
+#### Consider the GIFs below.
+French:  
+![French](https://user-images.githubusercontent.com/70684698/173798358-3d376a90-69bf-48ab-a446-24ac6ce0755c.png)  
+
+
+German:  
+![German](https://user-images.githubusercontent.com/70684698/173798482-f2358e0d-3c10-42fd-89d1-f95c55fc626b.png)
 
 - Let's assume that these images are the same resolution -- 300 pixels by 200 pixels, and both are static (non-video/non-looping) GIFs. Nevertheless, it turns out that the German GIF is smaller (i.e., fewer bytes) than the French GIF. Hypothesize why that might be.
 	<p style="font-size: small">Be sure to re-read this stipulation carefully. When you download these images, you may find that the German GIF is bigger, for example (there are different GIF-encoding techniques which can cause this). Nevertheless, we are stipulating that they are both 300x200, and that the German one is smaller, and that should be your assumption in your answer.</p>  
@@ -26,7 +32,7 @@
 
 	>   pink and purple mix  
 
-##### Keep in mind that "1-bit color" connotes two colors, black and white.
+#### Keep in mind that "1-bit color" connotes two colors, black and white.
 
 - If an image supports "8-bit color," (roughly) how many colors does it support?
 
@@ -36,13 +42,17 @@
 
 	>   16777216  
 
-##### Consider the video below.
+#### Consider the video below.
 http://youtube.com/watch?v=WwnI0RS6J5A
 
 - Why does making an image bigger not make it clearer?
 	>   this video has low resolution  
 
-##### Consider the childhood "flip book" below, each of whose pages has a slightly different drawing of a shape.
+#### Consider the childhood "flip book" below, each of whose pages has a slightly different drawing of a shape.
+Flip book:  
+![flip](https://user-images.githubusercontent.com/70684698/173798745-efc01bad-f15a-4c98-8efd-7d35dba04930.gif)  
 
 - In what way is a childhood "flip book" like a digital video?  
 	>   Quickly flip photos to create an effect like an animation switching the number of frames, making it look like a video  
+
+
