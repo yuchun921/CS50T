@@ -25,10 +25,10 @@ table {
   margin-right:auto;
 }
 footer {
+  background-color: #f7f7f7;
   font-size: small; 
 }
 
 footer.d1 {
-  background-color: #f7f7f7;
   margin: 40px;
 }
